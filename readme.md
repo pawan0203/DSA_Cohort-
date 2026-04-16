@@ -35,10 +35,10 @@ I will be regularly solving problems, learning concepts, and improving my proble
 
 | Day | Topic | Status |
 |-----|------|--------|
-| Day 1 | Arrays Basics | ✅ |
-| Day 2 | Time Complexity | ✅ |
-| Day 3 | Searching | 🔄 |
-| Day 4 | Sorting | ⏳ |
+| Day 1 | Time Complexity | ✅ |
+| Day 2 | Recursion | ✅ |
+| Day 3 | Array | 🔄 |
+| Day 4 | Linked list | ⏳ |
 
 ---
 
