@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/macbookpro/Desktop/Dsa Chaicode Cohort/Recursion/fibonacci'
+relocations:     []
+...

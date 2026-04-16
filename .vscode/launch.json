@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/macbookpro/Desktop/Dsa Chaicode Cohort/Recursion",
+      "program": "/Users/macbookpro/Desktop/Dsa Chaicode Cohort/Recursion/build/Debug/outDebug"
+    }
+  ]
+}
